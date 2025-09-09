@@ -6,7 +6,7 @@ A simple and secure web app I built to manage my job search. It uses Flask's ses
 
 ---
 
-![Job Tracker Screenshot](https://github.com/turganaliev/job-tracker/issues/1)
+![Job Tracker Screenshot]([https://github.com/turganaliev/job-tracker/issues/1](https://private-user-images.githubusercontent.com/56060415/487021917-8ea31595-c9df-4810-8ba6-723d71b7f85a.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTczNzcyOTYsIm5iZiI6MTc1NzM3Njk5NiwicGF0aCI6Ii81NjA2MDQxNS80ODcwMjE5MTctOGVhMzE1OTUtYzlkZi00ODEwLThiYTYtNzIzZDcxYjdmODVhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTA5VDAwMTYzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJlYWNjNjZjOTAzMGRlNjk2YzkyMmE2ZWZjNjZlNWE4Yjc2YWJjNjhjZTc0YTllYmI3NTNlMzI2MzNhNjE5MjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.XjQvRsFlNEbI8VCFpvFuaoXXUrQyeoay_7F8SLN96tA))
 
 ---
 ## The Story Behind This Project
