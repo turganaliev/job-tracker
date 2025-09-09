@@ -6,7 +6,7 @@ A simple and secure web app I built to manage my job search. It uses Flask's ses
 
 ---
 
-![Job Tracker Screenshot](job-tracker-in-action.png)
+![Job Tracker Screenshot](<img width="1443" height="772" alt="Image" src="https://github.com/user-attachments/assets/bf343b7b-84bc-43b0-9c3e-6c6741026ff8" />)
 
 ---
 ## The Story Behind This Project
